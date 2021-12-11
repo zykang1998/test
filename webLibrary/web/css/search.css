@@ -1,0 +1,14 @@
+body{
+    background:url("/kk/image/bg.png");
+    font-family: "微软雅黑", sans-serif;
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    background-attachment: fixed;
+}
+.searchBox {
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    margin: -100px 0 0 -150px;
+    background-size: 100% 100%;
+}
